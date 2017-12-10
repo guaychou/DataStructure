@@ -43,7 +43,7 @@ class sequentialSearching {
                     return;
                 }
                 else if (a==array.length-1){
-                    System.out.println("nggak ketemu cok");
+                    System.out.println("Datanya nggak ketemu lo :v ,coba masukin bilangannya yang bener dong");
                 }  }
     }
 }
